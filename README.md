@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @thecodedoctorr
-- 👀 I’m interested in cloud technologies, Mobile development
-- 🌱 I’m currently learning more aspects about IoT.
+- 👋 Hi, I’m ouafae
+- 👀 I’m interested in IoT, embedded and Mobile development.
 - 💞️ I’m looking to collaborate on IoT projects
 - 📫 How to reach me: thecodedoctor@gmail.com
 
